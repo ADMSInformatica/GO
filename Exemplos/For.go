@@ -1,3 +1,5 @@
+//FOR Padrão
+
 package main
 import "fmt"
 
@@ -7,4 +9,17 @@ func main() {
 	}
 }
 
-//FOR padrão
+//Outro Modelo
+
+/*
+package main
+import "fmt"
+
+func main() {
+	x := 0
+	for ; x < 10; {
+	  x++
+	  fmt.Println(x)
+	}
+}
+*/

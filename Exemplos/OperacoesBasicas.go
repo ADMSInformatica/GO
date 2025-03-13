@@ -1,8 +1,8 @@
 package main
 import "fmt"
 func main() {
-	x := 2
-	y := 2
+	x int := 2
+	y int := 2
 	fmt.Println("Adição", x+y)
 	fmt.Println("Subtração", x-y)
 	fmt.Println("Multiplicação", x*y)
